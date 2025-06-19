@@ -5,8 +5,7 @@ Demo Link: https://youtu.be/AfM0BbgQSfQ
 
 ## Overview
 
-The **Intelligent PDF Summarizer** is an Azure-based serverless application that automatically extracts text from uploaded PDF files, summarizes the content using Azure OpenAI (GPT-4), and stores the result as a new file in a separate output container.
----
+The Intelligent PDF Summarizer is an Azure-based serverless application that automatically extracts text from uploaded PDF files, summarizes the content using Azure OpenAI (GPT-4), and stores the result as a new file in a separate output container.
 
 ## Architecture
 
